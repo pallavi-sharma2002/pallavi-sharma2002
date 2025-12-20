@@ -29,4 +29,4 @@ Aspiring Data Scientist | Python, SQL, Machine Learning | Open to internships & 
 
 
 ## 📫 Contact Me
-- Email: pallavi.sharma.dev@gmail.com
+- Email: pallavisharma9660@gmail.com
